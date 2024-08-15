@@ -1,7 +1,5 @@
 # **_PYTHON DESDE CERO_**
 
-![Static Badge](https://img.shields.io/badge/:badgeContent)
-
 ## **Introducción**
 
 ## **1. ¿Qué es Python?**
