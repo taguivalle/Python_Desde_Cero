@@ -18,7 +18,7 @@ Antes de empezar a programar, se necesita instalar Python en el ordenador y/o co
 
 3. Durante la instalación, asegúrate de marcar la casilla **"Add Python to PATH"**. Ver la ilustración 1.
 _Ilustración 1_
-![Path](assets\img\PythonPath.png "add to path")
+![Path](assets/img/PythonPath.png "add to path")
 
 4. Siguiendo los pasos de instalación intuitivos que brinda el programa se puede llegar a un feliz termino de esta instalación; ahora, solamente se puede asegurar  de que todo esté correctamente configurado; escribiendo en una terminal CMD python3 --version. Realmente los pasos son muy sencillos.
 
