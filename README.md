@@ -12,16 +12,16 @@ Antes de empezar a programar, se necesita instalar Python en el ordenador y/o co
 
 * **Windows**:
 
-1. Ve a la página oficial de Python: [python.org](https://www.python.org/downloads/). Por favor ver la ilustración 1.
+1. Se visita la página oficial de Python: [python.org](https://www.python.org/downloads/). Por favor ver la ilustración 1.
 
 2. Descarga la última versión de Python.
 
-3. Durante la instalación, asegúrate de marcar la casilla "Add Python to PATH".
+3. Durante la instalación, asegúrate de marcar la casilla **"Add Python to PATH"**.
 
-4. Sigue los pasos de instalación y asegúrate de que todo esté correctamente configurado.
+4. Siguiendo los pasos de instalación intuitivos que brinda el programa se puede llegar a un feliz termino de esta instlación; ahora, solamente se puede asegurar  de que todo esté correctamente configurado; escribiendo en una terminal CMD python3 --version. Realmente los pasos son muy sencillos.
 
 _Ilustración 1_
-![Python](assets\img\InstalarPython.png "Descargar Python")
+![Python](assets/img/InstalarPython.png "Descargar Python")
 Fuente: [Python](<https://www.python.org/downloads/>) y Propia.
 
 * **MacOS/Linux**:
@@ -33,12 +33,12 @@ Fuente: [Python](<https://www.python.org/downloads/>) y Propia.
 O en su defecto se puede escribir ```sudo apt-get install python3```
 
 _Ilustración 2_
-![Python](assets\img\PythonLinux.png "Descargar Python otras versiones")
-Fuente: [Python](<https://www.python.org/downloads/>) y Propia.
+![Python](assets/img/PythonLinux.png "Descargar Python otras versiones")
+ y Propia.
 
 ## **3. Configurar un Entorno de Desarrollo**
 
-Para escribir y ejecutar tu código en Python, necesitas un entorno de desarrollo. Aquí tienes algunas opciones:
+Inicialmente, para escribir y ejecutar el código en Python, se necesita un entorno de desarrollo. Pare esto se tienen algunas opciones:
 
 * [IDDLE](https://docs.python.org/3/library/idle.html) (Python's Integrated Development and Learning Environment): Viene con la instalación de Python. Es simple y fácil de usar para empezar.
 
