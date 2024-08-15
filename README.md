@@ -1,5 +1,7 @@
 # **_PYTHON DESDE CERO_**
 
+![Static Badge](https://img.shields.io/badge/:badgeContent)
+
 ## **Introducción**
 
 ## **1. ¿Qué es Python?**
@@ -32,7 +34,7 @@ Fuente: [Python](<https://www.python.org/downloads/>) y Propia.
 
 _Ilustración 3_
 ![Python](assets/img/PythonLinux.png "Descargar Python otras versiones")
- y Propia.
+ Fuente: [Python](<https://www.python.org/downloads/>) y Propia.
 2. Si no está instalado, se puede instalar utilizando un gestor de paquetes como brew (en macOS) o apt-get (en Ubuntu).```brew install python```.
 
 O en su defecto se puede escribir ```sudo apt-get install python3```
