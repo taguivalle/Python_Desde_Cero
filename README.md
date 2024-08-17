@@ -2,7 +2,7 @@
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=taguivalle&show_icons=true)
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=taguivalle&theme=blue-green)
-![GitHub Contributors Image](https://contrib.rocks/image?repo=Your_GitHub_Username/Your_GitHub_Repository_Name)
+![GitHub Contributors Image](https://contrib.rocks/image?repo=taguivalle/Python_Desde_Cero)
 
 ## Top 5 Badges That Will Take Your GitHub Repository to the Next Level
 
@@ -114,11 +114,11 @@ _Ilustración 5_
 ![Python IDLE](assets/img/PythonIdle.png "Python Idle")
 Fuente: Propia.
 
-* [VS Code](https://code.visualstudio.com/): Siendo este Un editor de texto poderoso y personalizable con soporte para Python.
+* [VS Code](https://code.visualstudio.com/ "VS Code"): Siendo este Un editor de texto poderoso y personalizable con soporte para Python.
 
 _Ilustración 6_
-![Vs Code](assets/img/VisualStudiCode.png)
-Fuente: [Vs Code](https://code.visualstudio.com/) y propia.
+![Vs Code](assets/img/pythonIdle.png)
+Fuente: [Vs Code](https://code.visualstudio.com/ "Python IDLE") y propia.
 
 * [PyCharm](https://www.jetbrains.com/es-es/pycharm/): Es un IDE más avanzado, con muchas herramientas para facilitar el desarrollo en Python.
 
