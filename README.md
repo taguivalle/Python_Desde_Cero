@@ -1,22 +1,19 @@
 # **_Python DESDE CERO_**
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=taguivalle&show_icons=true)
+
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=taguivalle&theme=blue-green)
 ![GitHub Contributors Image](https://contrib.rocks/image?repo=taguivalle/Python_Desde_Cero)
 
-## 1. Most Used Languages
-
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=taguivalle&theme=blue-green)
-
-## 2. Random Joke Generator
+## 1. Random Joke Generator
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-## 3. Profile View Counter
+## 2. Profile View Counter
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=Tanu-N-Prabhu)
 
-### Repository View Counter - HITS
+## 3. Repository View Counter - HITS
 
 [![Hits](https://hits.sh/github.com/silentsoft/hits.svg)](https://hits.sh/github.com/silentsoft/hits/)
 
