@@ -1,8 +1,12 @@
+
+# **_Python DESDE CERO_**
+
 # **_Python DESDE CERO_**
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=taguivalle&show_icons=true)
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=taguivalle&theme=blue-green)
+
 ![GitHub Contributors Image](https://contrib.rocks/image?repo=taguivalle/Python_Desde_Cero)
 
 ## 1. Random Joke Generator
@@ -17,29 +21,56 @@
 
 [![Hits](https://hits.sh/github.com/silentsoft/hits.svg)](https://hits.sh/github.com/silentsoft/hits/)
 
-## Agradecimientos Sinceros
+## Agradecimientos
 
-Es muy importante aclarar que, lo expuesto en este pequeño pero gran tutorial la mayoría de los conceptos los adquirí de la plataforma educativa [Udemy](https://www.udemy.com/mobile/ipad/) que a lo largo de los años he utilizado mucho por su variedad de información con respecto de los cursos como de sus magistrales educadores; la verdad me siento muy agredecido con esta plataforma educativa; para lo que les deseo muchos éxitos y prosperidad.
+Es muy importante aclarar que, lo expuesto en este pequeño pero gran tutorial la mayoría de los conceptos los adquirí de la plataforma educativa [Udemy](https://www.udemy.com/mobile/ipad/) que a lo largo de los años he utilizado mucho por su variedad de información con respecto de los cursos como de sus magistrales educadores; la verdad me siento muy agradecido con esta plataforma educativa; para lo que les deseo muchos éxitos y prosperidad.
 
-No obstante, también un agradecimiento muy especial a las diferentes páginas web que he consultado y que se referencián en este tutorial y muy especialmente a [GitHub](https://github.com/) por sus valiosos aportes en la documentación como de la orientación de diferentes usuarios de la misma.
+No obstante, también un agradecimiento muy especial a las diferentes páginas web que he consultado y que se referencian en este tutorial y muy especialmente a [GitHub](https://github.com/) por sus valiosos aportes en la documentación como de la orientación de diferentes usuarios de esta.
 
-De otra parte agradecer personalmente al Profe "**Gildardo Patiño Trillos**" quién ha sido mi mentor desde los inicios en mi Carrera como estudiante de Ingeniería de Sistemas realizado en la sagrada Universidad Cooperativa de Colombia [UCC](https://ucc.edu.co/).
+De otra parte, agradecer personalmente al Profe "**Gildardo Patiño Trillos**" quién ha sido mi mentor desde los inicios en mi Carrera como estudiante de Ingeniería de Sistemas realizado en la sagrada Universidad Cooperativa de Colombia [UCC](https://ucc.edu.co/).
+
 
 ## **Introducción**
 
-inicialmente, dar un gran ¡Hola y bienvenidos al tutorial "Python desde cero"! Si alguna vez ha querido aprender a programar pero no sabía por dónde empezar, se encuentra en el lugar adecuado. Para muchos es de pleno conocimiento que, Python es un lenguaje de programación increíblemente versátil y amigable para principiantes, conocido por su sintaxis clara y su amplia aplicabilidad en el desarrollo web, la ciencia de datos, la inteligencia artificial, la automatización y muchos más temas que concierne este lenguaje de programación.
+inicialmente, dar un gran ¡Hola y bienvenidos al tutorial "Python desde cero"! Si alguna vez ha querido aprender a programar, pero no sabía por dónde empezar, se encuentra en el lugar adecuado. Para muchos es de pleno conocimiento que, Python es un lenguaje de programación increíblemente versátil y amigable para principiantes, conocido por su sintaxis clara y su amplia aplicabilidad en el desarrollo web, la ciencia de datos, la inteligencia artificial, la automatización y muchos más temas que concierne este lenguaje de programación.
 
 En este tutorial, se tiene un paso a paso desde los conceptos básicos hasta algunas técnicas más avanzadas. No se necesita tener ninguna experiencia previa en programación; aquí se cubre lo necesario para poder empezar a programar en Python con confianza.
 
+## Tabla de Contenido
+
+* ¿Qué se puede aprender en este tutorial?
+* ¿Qué es Python?
+* Instalación de Python
+* En Windows
+* MacOS/Linux
+* Configurar un Entorno de Desarrollo
+* Sintaxis de Python
+* ¿Qué son los Comentarios en los lenguajes de programación?
+* Los bloques de código en Python se definen de la siguiente manera
+* Múltiples líneas
+* Creando variables
+* Nombrando variables
+* Uso de paréntesis
+* Asignación de Valores
+* Tipos de Variables
+* Nombres de Variables
+* Uso de Variables
+* Reglas y consejos
+* Conclusión
+* Paso por valor y por referencia
+* Variable global en Python
+* Uso de la función print()
+* Creación de nuestro primer archivo
+
 ## ¿Qué se puede aprender en este tutorial?
 
-1. **_¿Qué es Python?_**, por qué es popular y cómo configurarlo en la computadora.
-2. **_Sintaxis Básica_**: Cómo escribir y ejecutar tu primer programa en Python, entender variables, tipos de datos y operaciones básicas.
-3. **_Control de Flujo_**: Estructuras de control como condicionales y bucles para crear programas más dinámicos.
-4. **_Funciones y Módulos_**: Cómo definir y utilizar funciones, así como organizar tu código en módulos reutilizables.
-5. **_Estructuras de Datos_**: Trabajar con listas, diccionarios y otras estructuras de datos para almacenar y manipular información.
-6. **_Manejo de Archivos_**: Cómo leer y escribir archivos para interactuar con datos almacenados en tu sistema.
-7. **_Proyectos Prácticos_**: Aplicar lo que se ha aprendido en proyectos reales y desafiantes para solidificar tus conocimientos.
+¿Qué es Python?, por qué es popular y cómo configurarlo en la computadora.
+Sintaxis Básica: Cómo escribir y ejecutar tu primer programa en Python, entender variables, tipos de datos y operaciones básicas.
+Control de Flujo: Estructuras de control como condicionales y bucles para crear programas más dinámicos.
+Funciones y Módulos: Cómo definir y utilizar funciones, así como organizar tu código en módulos reutilizables.
+Estructuras de Datos: Trabajar con listas, diccionarios y otras estructuras de datos para almacenar y manipular información.
+Manejo de Archivos: Cómo leer y escribir archivos para interactuar con datos almacenados en tu sistema.
+Proyectos Prácticos: Aplicar lo que se ha aprendido en proyectos reales y desafiantes para solidificar tus conocimientos.
 
 A lo largo del tutorial, se encuentran ejemplos prácticos, ejercicios y consejos que pueden ser de gran ayuda a reforzar el aprendizaje de este lenguaje de programación. uno de los objetivos de este tutorial es que no solo se comprenda cómo funciona Python, sino que también sentirse cómodo y motivado para seguir explorando y creando por propia cuenta.
 
@@ -74,7 +105,7 @@ Antes de empezar a programar, se necesita instalar Python en el ordenador y/o co
 _Ilustración 2_
 ![Path](assets/img/PythonPath.png "add to path")
 
-Ahora, sí siguen los pasos de instalación intuitivos que brinda el programa se puede llegar a un feliz termino de esta; seguidamente, se puede asegurar  de que todo esté correctamente configurado; escribiendo en una terminal CMD Python3 --version. Realmente los pasos son muy sencillos.
+Ahora, sí siguen los pasos de instalación intuitivos que brinda el programa se puede llegar a un feliz término de esta; seguidamente, se puede asegurar de que todo esté correctamente configurado; escribiendo en una terminal CMD Python3 --version. Realmente los pasos son muy sencillos.
 
 _Ilustración 3_
 ![Python](assets/img/InstalarPython.png "Descargar Python")
@@ -121,9 +152,9 @@ A continuación se presenta el tema de la sintaxis de Python; este vendría a se
 
 El termino [sintaxis](https://dle.rae.es/sintaxis?m=form) hace referencia al conjunto de reglas que definen las secuencias correctas de los elementos de un lenguaje de programación; de cómo se debe de escribir el código en un determinado lenguaje de programación. En resumen, hace referencia a la forma en la que se debe escribir las instrucciones para que el ordenador, o más bien el lenguaje de programación entienda lo que se está solicitando.
 
-Como es de común acuerdo, en la mayoría de lenguajes existe una sintaxis propia de cada lenguaje, también existen similitudes como por ejemplo, el uso del término matemático (igual) = para asignar un dato a una variable, o el uso de los famosos corchetes {} para designar bloques de código, pero Python tiene ciertas particularidades.
+Como es de común acuerdo, en la mayoría de los lenguajes existe una sintaxis propia de cada lenguaje, también existen similitudes como por ejemplo, el uso del término matemático (igual) = para asignar un dato a una variable, o el uso de los famosos corchetes {} para designar bloques de código, pero Python tiene ciertas particularidades.
 
-Por lo tanto, la sintaxis viene siendo tan importante para la programación como lo que es la gramática para los idiomas. Se puede dar un pequeño comentario acerca de la frase “Yo estamos aquí”escribirla así no es correcta y el siguiente código en Python no sería correcto, ya que no respeta las normas del lenguaje.
+Por lo tanto, la sintaxis viene siendo tan importante para la programación como lo que es la gramática para los idiomas. Se puede dar un pequeño comentario acerca de la frase “Yo estamos aquí “escribirla así no es correcta y el siguiente código en Python no sería correcto, ya que no respeta las normas del lenguaje.
 
 ```Python
 if ($variable){
@@ -165,7 +196,7 @@ Volviendo al código anterior, puede ser ejecutado tal cual está. Ahora al tene
 
 ## ¿Qué son los Comentarios en los lenguajes de programación?
 
-como su nombre lo índica, los comentarios son bloques de texto usados para comentar el código. Es decir, para ofrecer información relevante tanto al que lo escribe como a otros programadores que brinda información relevante acerca del código que se está escribiendo. Para efectos prácticos, para Python como para algunos lenguajes de programación es como si no existieran, ya que no son código propiamente dicho, solamente son anotaciones.
+como su nombre lo indica, los comentarios son bloques de texto usados para comentar el código. Es decir, para ofrecer información relevante tanto al que lo escribe como a otros programadores que brinda información relevante acerca del código que se está escribiendo. Para efectos prácticos, para Python como para algunos lenguajes de programación es como si no existieran, ya que no son código propiamente dicho, solamente son anotaciones.
 
 Los comentarios se inician con # y todo lo que vaya después en la misma línea será considerado un comentario.
 
@@ -183,7 +214,7 @@ de código
 
 ## Identación y bloques de código en Python
 
-La identación en Python es la práctica de utilizar espacios o tabuladores para identar los bloques de código. Esta identación es necesaria para indicar la estructura jerárquica de los comandos y controlar la fluidez del programa. En Python, los bloques de código se definen mediante la identación, es decir, al utilizar espacios o tabuladores para identar las líneas dentro de un bloque.
+La Identación en Python es la práctica de utilizar espacios o tabuladores para identar los bloques de código. Esta identación es necesaria para indicar la estructura jerárquica de los comandos y controlar la fluidez del programa. En Python, los bloques de código se definen mediante la identación, es decir, al utilizar espacios o tabuladores para identar las líneas dentro de un bloque.
 
 por lo tanto, es importante mantener consistencia en la identación a lo largo del código; debido a que, Python no tiene un límite explícito de identación, sino que se basa en la lógica de que las líneas identadas pertenecen al mismo bloque. Por lo general, se utiliza cuatro espacios para la identación, pero esto puede variar según las preferencias personales del desarrollador.
 
@@ -220,14 +251,14 @@ if True:
     print("True")
 ```
 
-Esto es muy importante ya que el código anterior y el siguiente no son lo mismo. De hecho el siguiente código daría un error ya que el ``if`` no contiene ningún bloque de código, y eso es algo que no se puede hacer en Python.
+Esto es muy importante ya que el código anterior y el siguiente no son lo mismo. De hecho, el siguiente código daría un error ya que el ``if`` no contiene ningún bloque de código, y eso es algo que no se puede hacer en Python.
 
 ```Python
 if True:
 print("True")
 ```
 
-Como se manifestara en anteriores líneas a diferencia que en otros lenguajes de programación, no es necesario utilizar el signo de punto y coma (;) para terminar cada línea.
+Como se mencionara en anteriores líneas a diferencia que en otros lenguajes de programación, no es necesario utilizar el signo de punto y coma (;) para terminar cada línea.
 
 ```c
 # Otros lenguajes como C requieren del signo de puntuación punto y coma (;) al final de cada línea
@@ -235,7 +266,7 @@ Como se manifestara en anteriores líneas a diferencia que en otros lenguajes de
 x = 10;
 ```
 
-Sin embargo en Python no es necesario, basta con un salto de línea.
+Sin embargo, en Python no es necesario, basta con un salto de línea.
 
 ```Python
 x = 5
@@ -250,9 +281,9 @@ x = 5; y = 10
 
 ### Múltiples líneas
 
-En algunas situaciones se puede dar el caso de que se quiera tener una sola instrucción en varias líneas de código. Uno de los motivos principales podría ser que fuera demasiado larga, y de hecho en la especificación [PEP8](https://dev.to/viktorvillalobos/que-es-el-pep-8-y-porque-deberia-implementarlo-54bh) se recomienda que las líneas no excedan los 80 caracteres, usar cuatro espacios en la identación en ves de tabs y otras más.
+En algunas situaciones se puede dar el caso de que se quiera tener una sola instrucción en varias líneas de código. Uno de los motivos principales podría ser que fuera demasiado larga, y de hecho en la especificación [PEP8](https://dev.to/viktorvillalobos/que-es-el-pep-8-y-porque-deberia-implementarlo-54bh) se recomienda que las líneas no excedan los 80 caracteres, usar cuatro espacios en la identación en vez de tabs y otras más.
 
-Haciendo uso de la barra inclinada invertida (\ ) se puede romper el código en varias líneas, lo que en determinados casos hace que el código sea mucho más legible.
+Haciendo uso de la barra inclinada invertida (\) se puede romper el código en varias líneas, lo que en determinados casos hace que el código sea mucho más legible.
 
 ```Python
 x = 1 + 2 + 3 + 4 +\
@@ -281,7 +312,7 @@ d = funcion(10,
 
 Anteriormente, se ha visto como crear una variable y asignarle un valor con el uso de =. Existen también otras formas de hacerlo de una manera un poco más sofisticada.
 
-Por ejemplo asignar el mismo valor a diferentes variables con el siguiente código.
+Por ejemplo, asignar el mismo valor a diferentes variables con el siguiente código.
 
 ```Python
 x = y = z = 10
@@ -298,7 +329,7 @@ x, y, z = 1, 2, 3
 
 De igual manera, se pueden nombrar las variables como se quiera nombrar, pero es importante saber que las mayúsculas y minúsculas son importantes. Las variables x (en minúscula) y X (en mayúscula) son distintas.
 
-Por otro lado existen ciertas normas a la hora de nombrar variables:
+Por otro lado, existen ciertas normas a la hora de nombrar variables:
 
 * El nombre no puede empezar por un número
 * No se permite el uso de guiones -
@@ -341,7 +372,7 @@ print(keyword.kwlist)
 # 'return', 'try', 'while', 'with', 'yield']
 ```
 
-De hecho con el siguiente comando se pueden ver todas las palabras clave que no se pueden utilizar.
+De hecho, con el siguiente comando se pueden ver todas las palabras clave que no se pueden utilizar.
 
 ```Python
 import keyword
@@ -350,7 +381,7 @@ print(keyword.kwlist)
 
 ### Uso de paréntesis
 
-Python soporta todos los operadores matemáticos más comunes, conocidos como operadores aritméticos. Por lo tanto se pueden realizar sumas, restas, multiplicaciones, exponentes (usando **) y otros que no se explican por el momento. Por ejemplo se realizan varias operaciones en la misma línea, y se almacenan su resultados en y.
+Python soporta todos los operadores matemáticos más comunes, conocidos como operadores aritméticos. Por lo tanto, se pueden realizar sumas, restas, multiplicaciones, exponentes (usando **) y otros que no se explican por el momento. Por ejemplo, se realizan varias operaciones en la misma línea, y se almacenan su resultados en y.
 
 ```Python
 x = 10
@@ -364,7 +395,7 @@ x = 10
 y = (x*3-3)**(10-2)+3
 ```
 
-El uso de paréntesis no solo se aplica a los operadores aritméticos, sino que también pueden ser aplicados a otros operadores como los relacionales o de membresía. En Python, los operadores relacionales o de membresía se utilizan para comparar valores y evaluar condiciones booleanas. Estos operadores se definen como sigue:
+El uso de paréntesis no solo se aplica a los operadores aritméticos, sino que también pueden ser aplicados a otros operadores como los **relacionales o de membresía**. En Python, los operadores relacionales o de membresía se utilizan para comparar valores y evaluar condiciones booleanas. Estos operadores se definen como sigue:
 
 * == (igual que): evalúa si el valor del lado izquierdo es igual al valor del lado derecho.
 * != (diferente): evalúa si el valor del lado izquierdo es diferente al valor del lado derecho.
@@ -401,7 +432,39 @@ Recuerda que los operadores relacionales son estrictos, lo que significa que 4 n
 
 ### Variables y alcance
 
-Un concepto muy importante cuando se define una variable, es saber el alcance o scope que tiene. En el siguiente ejemplo la variable con valor 10 tiene un alcance global y la que tiene el valor 5 dentro de la función, tiene un alcance local. Esto significa que cuando hacemos print(x), estamos accediendo a la variable global x y no a la x definida dentro de la función.
+![El Pytonista](assets/img/VariablesEnPython.jpg "Las variables en Python")
+Fuente: [Pytonista](https://elpythonista.com/variables-python)
+
+En Python, una variable es **_un espacio de memoria reservado para almacenar un valor_**. No se necesita declarar las variables antes de utilizarlas, ya que se crean automáticamente cuando se les asigna un valor. Las variables en Python son dinámicas, lo que significa que no se necesita especificar de antemano qué tipo de valor almacenarán.
+
+### Asignación de Valores
+
+Se asignan valores a las variables utilizando el operador de asignación ``=`` (igual). Por ejemplo, x = 5 asigna el valor 5 a la variable x. También se pueden asignar cadenas de texto, como nombre = "Juan" o valores booleanos, como activo = True.
+
+### Tipos de Variables
+
+Python es un lenguaje de tipo dinámico, lo que significa que no se necesita especificar el tipo de variable al declararla. Sin embargo, se pueden categorizar las variables en:
+
+1. **_Variables numéricas_** (int, float): Almacenan números enteros o decimales.
+2. **_Variables de texto_** (str): Almacenan cadenas de caracteres.
+3. **_Variables booleanas_** (bool): Almacenan valores verdaderos o falsos.
+4. **_Variables complejas_** (objeto): Almacenan objetos más complejos, como listas, diccionarios, etc.
+
+### Nombres de Variables
+
+En Python, los nombres de variables deben cumplir las siguientes características:
+
+1. Deben empezar por una letra o underscore (_).
+2. Deben ser en minúsculas y separar palabras con underscore (_).
+3. No pueden contener espacios ni caracteres especiales, excepto underscore (_).
+
+### Uso de Variables
+
+Las variables se utilizan para almacenar y manipular datos en un programa. Se pueden asignar valores, realizar operaciones aritméticas y lógicas, y utilizarlas en condiciones de control de flujo.
+
+En resumen, las variables en Python son espacios de memoria dinámicos que se crean automáticamente al asignarles un valor, y se pueden utilizar para almacenar y manipular diferentes tipos de datos.
+
+Un concepto muy importante cuando se define una variable es saber el alcance o scope que tiene. En el siguiente ejemplo la variable con valor 10 tiene un alcance global y la que tiene el valor 5 dentro de la función, tiene un alcance local. Esto significa que cuando hacemos print(x), estamos accediendo a la variable global x y no a la x definida dentro de la función.
 
 ```Python
 x = 10
@@ -494,7 +557,7 @@ print(numeros)  # Output: [1, 2, 3, 4]
 
 En el anterior ejemplo, la variable numeros se pasa por referencia a la función ``agregar_elemento``. La modificación realizada en la función (``numeros.append(4)``) afecta la variable original ``numeros``, que ahora contiene cuatro elementos.
 
-Para evitar que los tipos compuestos se modificuen accidentalmente, se puede crear una copia de la lista antes de pasarla como parámetro:
+Para evitar que los tipos compuestos se modifiquen accidentalmente, se puede crear una copia de la lista antes de pasarla como parámetro:
 
 ```Python
 def agregar_elemento(numeros):
@@ -569,12 +632,16 @@ print("Los valores x, y son:", x, y)
 
 ## Creación de nuestro primer archivo
 
+De acuerdo con lo anterior, ya se puede iniciar con crear un archivo en el IDLE de VS Code; para esto, se puede iniciar de la siguiente manera; aunque es de conocimiento que existen varias formas de hacerlo. Se procede a crear un archivo con el nombre que quiera utilizar el usuario; no sin antes advertir que debe de tener la extensión punto py (.py)
+
 1. First list item
    * First nested list item
      * Second nested list item
 
-Estando ya dentro del editor; se procede a crear un archivo con el nombre que quiera utilizar el usuario; no sin antes advertir que debe de tener la extensión punto py (.py)
+Estando ya dentro del editor; 
 
 * [ ] #739
 * [ ] <https://github.com/octo-org/octo-repo/issues/740>
 * [ ] Add delight to the experience when all tasks are complete :tada:
+
+
