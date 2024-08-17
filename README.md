@@ -8,15 +8,11 @@
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=taguivalle&theme=blue-green)
 
-## 2. Contributors Badge
-
-![Your Repository's Stats](https://contrib.rocks/image?repo=taguivalle/Python)
-
-## 3. Random Joke Generator
+## 2. Random Joke Generator
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-## 4. Profile View Counter
+## 3. Profile View Counter
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=Tanu-N-Prabhu)
 
