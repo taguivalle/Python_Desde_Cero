@@ -1,8 +1,6 @@
 
 # **_Python DESDE CERO_**
 
-# **_Python DESDE CERO_**
-
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=taguivalle&show_icons=true)
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=taguivalle&theme=blue-green)
@@ -28,7 +26,6 @@ Es muy importante aclarar que, lo expuesto en este pequeño pero gran tutorial l
 No obstante, también un agradecimiento muy especial a las diferentes páginas web que he consultado y que se referencian en este tutorial y muy especialmente a [GitHub](https://github.com/) por sus valiosos aportes en la documentación como de la orientación de diferentes usuarios de esta.
 
 De otra parte, agradecer personalmente al Profe "**Gildardo Patiño Trillos**" quién ha sido mi mentor desde los inicios en mi Carrera como estudiante de Ingeniería de Sistemas realizado en la sagrada Universidad Cooperativa de Colombia [UCC](https://ucc.edu.co/).
-
 
 ## **Introducción**
 
@@ -132,7 +129,7 @@ _Ilustración 5_
 ![Python IDLE](assets/img/PythonIdle.png "Python Idle")
 Fuente: Propia.
 
-* [VS Code](https://code.visualstudio.com/ "VS Code"): Siendo este Un editor de texto poderoso y personalizable con soporte para Python.
+* [VS Code](https://code.visualstudio.com/): Siendo este Un editor de texto poderoso y personalizable y con un gra soporte para Python.
 
 _Ilustración 6_
 ![Vs Code](assets/img/pythonIdle.png)
@@ -462,9 +459,79 @@ En Python, los nombres de variables deben cumplir las siguientes característica
 
 Las variables se utilizan para almacenar y manipular datos en un programa. Se pueden asignar valores, realizar operaciones aritméticas y lógicas, y utilizarlas en condiciones de control de flujo.
 
-En resumen, las variables en Python son espacios de memoria dinámicos que se crean automáticamente al asignarles un valor, y se pueden utilizar para almacenar y manipular diferentes tipos de datos.
+En resumen, las variables en Python son espacios de memoria dinámicos que se crean automáticamente al asignarles un valor, y se pueden utilizar para almacenar y manipular diferentes tipos de datos. Las variables y constantes pueden contener valores de diversos tipos; por ejemplo:
 
-Un concepto muy importante cuando se define una variable es saber el alcance o scope que tiene. En el siguiente ejemplo la variable con valor 10 tiene un alcance global y la que tiene el valor 5 dentro de la función, tiene un alcance local. Esto significa que cuando hacemos print(x), estamos accediendo a la variable global x y no a la x definida dentro de la función.
+* Cadenas de texto (string): miCadena = "Hola Mundo"
+* Número entero: edad = 35
+* Número entero local: edad = 043
+* Número entero hexadecimal: edad = 0x23
+* Número real: real= 7435028
+* Booleano (verdadero/falso):   verdadero = true
+                                falso = false
+## Operadores aritméticos
+
+Cabe destacar que, los [operadores aritméticos](https://apuntes.de/python/operadores-aritmeticos-y-de-asignacion-en-python/#gsc.tab=0); son aquellos que realizan operaciones matemáticas básicas, como la suma (+), la resta (-), la multiplicación (*), la división (/) y el módulo (%). Además, Python también tiene el operador de exponente (**), que eleva un número a una potencia determinada. Por lo tanto, se pueden utilizar los siguientes:
+
+|Símbolo  |Significado    |Ejemplo     |Resultado  |
+|---------|---------------|------------|-----------|
+|+        |suma           |a = 10 + 2  |a es 15    |
+|---------|---------------|------------|-----------|
+|-        |resta          |a = 10 - 2  |a es 8     |
+|---------|---------------|------------|-----------|
+|*        |multiplicación |a = -5      |a es -5    |
+|---------|---------------|------------|-----------|
+|**       |exponente      |a = 2**3    |a es 8     |
+|---------|---------------|------------|-----------|
+|/        |división       |a = 12.5 / 2|a es 6.25  |
+|---------|---------------|------------|-----------|
+|%        |módulo         |a = 27 % 4  |a es 3     |
+|---------|---------------|------------|-----------|
+
+## Operadores de comparación
+
+En Python, los operadores de comparación se utilizan para evaluar la igualdad o desigualdad entre valores. A continuación, se presentan los operadores más comunes:
+
+
+|Operador |Nombre         |Ejemplo     |Funcionalidad                       |
+|---------|---------------|------------|------------------------------------|
+|==       |igualdad       |x == y      |Verdadero sí x es = a y             |
+|---------|---------------|------------|------------------------------------|
+|!=       |diferente      |x !=        |Verdadero sí x no es = a y          |
+|---------|---------------|------------|------------------------------------|
+|>        |mayor que      |x > y       |Verdadero sí x es mayor que y       |
+|---------|---------------|------------|------------------------------------|
+|<        |menor que      |x < y       |Verdadero sí x es menor que y       |
+|---------|---------------|------------|------------------------------------|
+|>=       |mayor o igual  |x >=        |Verdadero sí x es mayor o igual a y |
+|---------|---------------|------------|------------------------------------|
+|<=       |menor o igual  |a = 27 % 4  |Verdadero sí x es menor o igual a y |
+|---------|---------------|------------|------------------------------------|
+
+## Operadores Lógicos
+
+Además de los operadores de comparación, también hay operadores lógicos que se utilizan para combinar condiciones y obtener resultados booleanos. Estos son:
+
+* and (y): Evalúa si ambas condiciones son verdaderas.
+* or (o): Evalúa si al menos una de las condiciones es verdadera.
+* not (no): Invierte el valor de la condición.
+
+Ejemplo:
+
+```python
+x = 5
+y = 3
+
+print(x > y and x < 10)  # Output: True
+print(x > y or x < 10)  # Output: True
+print(not x > y)  # Output: False
+```
+### Observaciones
+
+* Python es un lenguaje case-sensitive, lo que significa que ``True`` (en mayúsculas) y ``true`` (en minúsculas) son valores diferentes. En el ejemplo proporcionado, se puede ver cómo el error se produce al asignar ``true`` en lugar de ``True``.
+* Para comparar dos variables/valores, se utiliza el operador ``==`` o uno de los operadores de comparación numérica (e.g., <, >).
+* Los operadores lógicos se utilizan comúnmente en condicionales para evaluar múltiples condiciones y obtener resultados booleanos.
+
+Otro aspecto a tener en cuenta es que, cuando se define una variable es saber el alcance o scope que tiene. En el siguiente ejemplo la variable con valor 10 tiene un alcance global y la que tiene el valor 5 dentro de la función, tiene un alcance local. Esto significa que cuando hacemos ``print(x)``, estamos accediendo a la variable global x y no a la x definida dentro de la función.
 
 ```Python
 x = 10
@@ -476,7 +543,7 @@ funcion()
 print(x)
 ```
 
-Es normal que al inicio de todo este tema se tenga un concepto un poco complicado de observar; pero lo veremos más adelante. Te recomendamos leer los siguientes posts para entender mejor las funciones y el alcance de las variables:
+Es normal que al inicio de todo este tema se tenga un concepto un poco complicado de observar; pero, se pueden observar algunos conceptos más adelante para una mayor claridad. Es muy recomendable leer la siguiente información para entender mejor las funciones y el alcance de las variables:
 
 ### Funciones en Python y sus argumentos
 
@@ -487,7 +554,7 @@ Las funciones en Python son bloques de código que realizan una tarea específic
 * def nombre_de_la_funcion(Argumentos):
 
 1. Código que realiza la tarea específica.
-2. Puede incluir sentencias return para devolver valores.
+2. Puede incluir sentencias ``return`` para devolver valores.
 3. Puede incluir parámetros con valores predeterminados
 
 #### Ejemplos
@@ -542,7 +609,7 @@ incrementar(x)
 print(x)  # Output: 5
 ```
 
-En el anterior ejemplo, la variable ``x`` se pasa por valor a la función incrementar. La modificación realizada en la función ``(x = x + 1)`` no afecta la variable original x, que sigue siendo 5.
+En el anterior ejemplo, la variable ``x`` se pasa por valor a la función incrementar. La modificación realizada en la función ``(x = x + 1)`` no afecta la variable original ``x``, que sigue siendo 5.
 
 **2. Paso por referencia**: Los tipos compuestos como listas, [diccionarios](https://devcode.la/tutoriales/diccionarios-en-Python/) y objetos se pasan por referencia. Esto significa que se envía una copia de la referencia a la variable original, por lo que cualquier modificación realizada en la función afecta la variable original. Ver el siguiente ejemplo:
 
@@ -578,7 +645,7 @@ Por otro lado, las variables locales son aquellas definidas dentro de una funci�
 
 Para acceder y modificar variables globales, se puede utilizar la función ``globals()``, que devuelve un diccionario que contiene todas las variables del ámbito global actual. Este diccionario se utiliza para acceder al valor de las variables globales y modificarlo. Sin embargo, para variables locales, se utiliza la función ``locals()``, que devuelve un diccionario que contiene todas las variables del ámbito local actual, pero no se puede modificar.
 
-A continuación, te presento un ejemplo que ilustra la diferencia entre variables globales y locales en Python:
+A continuación, se presenta un ejemplo que ilustra la diferencia entre variables globales y locales en Python:
 
 ```Python
 # Variable global llamada global_valor
@@ -632,16 +699,14 @@ print("Los valores x, y son:", x, y)
 
 ## Creación de nuestro primer archivo
 
-De acuerdo con lo anterior, ya se puede iniciar con crear un archivo en el IDLE de VS Code; para esto, se puede iniciar de la siguiente manera; aunque es de conocimiento que existen varias formas de hacerlo. Se procede a crear un archivo con el nombre que quiera utilizar el usuario; no sin antes advertir que debe de tener la extensión punto py (.py)
+De acuerdo con lo anterior, ya se puede iniciar con crear un archivo en el IDLE de VS Code; para esto, se puede iniciar de la siguiente manera; aunque es de conocimiento que existen varias formas de hacerlo. Se procede a crear un archivo con el nombre que quiera utilizar el usuario; no sin antes advertir que debe de tener la extensión punto py (.py);para este caso se llamará example.py.
 
 1. First list item
    * First nested list item
      * Second nested list item
 
-Estando ya dentro del editor; 
+Estando ya dentro del editor;
 
 * [ ] #739
 * [ ] <https://github.com/octo-org/octo-repo/issues/740>
 * [ ] Add delight to the experience when all tasks are complete :tada:
-
-
