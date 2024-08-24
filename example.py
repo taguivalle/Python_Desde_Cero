@@ -1,4 +1,4 @@
-print("Datos de la primera persona")
+print("Datos del producto")
 # Para obtener una cadena de caracteres se utiliza la función input junto con variables
 # diferentes por lo tanto, se le permite al usuario que ingrese los datos por teclado.
 nombre1 = input("Ingrese nombre del producto:")
@@ -19,10 +19,10 @@ precio_compra_total = precio1 + precio2
 comparar = precio1 >= precio2
 # ahora se utiliza un operador lógico (and) para evaluar los precios y se guardan en la
 # variable logico; por lo tanto, el resultado es un valor booleano (true or false) pero tiene que
-# cumplirse las dos condiciones para que el resultado se true
+# cumplirse las dos condiciones para que el resultado sea true
 logico = (precio1 < precio2 and precio1 == precio2)
 # en el siguiente bloque se va a concatenar texto y se procede de la siguiente manera:
-cabecera = "resultados del producto {0} y del producto {1}: "
+cabecera = "resultados del producto {0} y del producto {1} es: "
 # en la siguiente línea se concatena el texto con la función format
 print(cabecera.format(nombre1, nombre2))
 print("El precio del primer valor es mayor o igual a el precio del segundo valor")

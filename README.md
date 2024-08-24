@@ -1,11 +1,12 @@
 
 # **_Python DESDE CERO_**
 
+![GitHub Contributors Image](https://contrib.rocks/image?repo=taguivalle/Python_Desde_Cero)
+
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=taguivalle&show_icons=true)
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=taguivalle&theme=blue-green)
 
-![GitHub Contributors Image](https://contrib.rocks/image?repo=taguivalle/Python_Desde_Cero)
 
 ## 1. Random Joke Generator
 
@@ -31,7 +32,7 @@ De otra parte, agradecer personalmente al Profe "**Gildardo Patiño Trillos**" q
 
 inicialmente, dar un gran ¡Hola y bienvenidos al tutorial "Python desde cero"! Si alguna vez ha querido aprender a programar, pero no sabía por dónde empezar, se encuentra en el lugar adecuado. Para muchos es de pleno conocimiento que, Python es un lenguaje de programación increíblemente versátil y amigable para principiantes, conocido por su sintaxis clara y su amplia aplicabilidad en el desarrollo web, la ciencia de datos, la inteligencia artificial, la automatización y muchos más temas que concierne este lenguaje de programación.
 
-En este tutorial, se tiene un paso a paso desde los conceptos básicos hasta algunas técnicas más avanzadas. No se necesita tener ninguna experiencia previa en programación; aquí se cubre lo necesario para poder empezar a programar en Python con confianza.
+En este tutorial, se tiene un paso a paso desde los conceptos básicos hasta algunas técnicas más avanzadas. No se necesita tener ninguna experiencia previa en programación; aquí se cubre lo necesario para poder empezar a programar en [Python](https://www.python.org/) con confianza.
 
 ## Tabla de Contenido
 
@@ -62,30 +63,30 @@ En este tutorial, se tiene un paso a paso desde los conceptos básicos hasta alg
 ## ¿Qué se puede aprender en este tutorial?
 
 ¿Qué es Python?, por qué es popular y cómo configurarlo en la computadora.
-Sintaxis Básica: Cómo escribir y ejecutar tu primer programa en Python, entender variables, tipos de datos y operaciones básicas.
+Sintaxis Básica: Cómo escribir y ejecutar tu primer programa en [Python](https://www.python.org/), entender variables, tipos de datos y operaciones básicas.
 Control de Flujo: Estructuras de control como condicionales y bucles para crear programas más dinámicos.
 Funciones y Módulos: Cómo definir y utilizar funciones, así como organizar tu código en módulos reutilizables.
 Estructuras de Datos: Trabajar con listas, diccionarios y otras estructuras de datos para almacenar y manipular información.
 Manejo de Archivos: Cómo leer y escribir archivos para interactuar con datos almacenados en tu sistema.
 Proyectos Prácticos: Aplicar lo que se ha aprendido en proyectos reales y desafiantes para solidificar tus conocimientos.
 
-A lo largo del tutorial, se encuentran ejemplos prácticos, ejercicios y consejos que pueden ser de gran ayuda a reforzar el aprendizaje de este lenguaje de programación. uno de los objetivos de este tutorial es que no solo se comprenda cómo funciona Python, sino que también sentirse cómodo y motivado para seguir explorando y creando por propia cuenta.
+A lo largo del tutorial, se encuentran ejemplos prácticos, ejercicios y consejos que pueden ser de gran ayuda a reforzar el aprendizaje de este lenguaje de programación. uno de los objetivos de este tutorial es que no solo se comprenda cómo funciona [Python](https://www.python.org/), sino que también sentirse cómodo y motivado para seguir explorando y creando por propia cuenta.
 
-Es de entender que, este tutorial es un abrebocas de lo que puede llegar a ser Python; pero son unos conceptos que se han extraído en su mayor parte de la web como también muy personales; con otra forma de ver este maravilloso mundo del lenguaje de programación como lo es Python.
+Es de entender que, este tutorial es un abrebocas de lo que puede llegar a ser [Python](https://www.python.org/); pero son unos conceptos que se han extraído en su mayor parte de la web como también muy personales; con otra forma de ver este maravilloso mundo del lenguaje de programación como lo es Python.
 
-¡Así que agarra tu computadora, abre tu editor de texto favorito, y prepárate para sumergirte en el emocionante mundo de la programación con Python!
+¡Así que agarra tu computadora, abre tu editor de texto favorito, y prepárate para sumergirte en el emocionante mundo de la programación con [Python](https://www.python.org/)!
 
 ## 1. **¿Qué es Python?**
 
-Python es un lenguaje de programación de alto nivel, interpretado y de propósito general, que soporta múltiples paradigmas de programación, incluyendo programación estructurada, orientada a objetos y funcional. Fue desarrollado por [Guido van Rossum](https://es.wikipedia.org/wiki/Guido_van_Rossum) y lanzado por primera vez en 1991. Python es conocido por su enfoque en la legibilidad del código, lo que permite a los desarrolladores expresar conceptos de manera concisa y clara.
+[Python](https://www.python.org/) es un lenguaje de programación de alto nivel, interpretado y de propósito general, que soporta múltiples paradigmas de programación, incluyendo programación estructurada, orientada a objetos y funcional. Fue desarrollado por [Guido van Rossum](https://es.wikipedia.org/wiki/Guido_van_Rossum) y lanzado por primera vez en 1991. Python es conocido por su enfoque en la legibilidad del código, lo que permite a los desarrolladores expresar conceptos de manera concisa y clara.
 
 _Ilustración 1_
 ![Guido Van Rossum](assets/img/Guido_van_Rossum_OSCON_2006.jpg "Guido Van Rossum")
 Fuente: [Guido van rossum](https://es.wikipedia.org/wiki/Guido_van_Rossum)
 
-Python cuenta con un sistema de tipado dinámico y una gestión automática de memoria, lo que lo hace flexible y eficiente para una amplia gama de aplicaciones. Además, Python tiene una extensa biblioteca estándar y un ecosistema robusto de paquetes y módulos de terceros que extienden sus capacidades a áreas como desarrollo web (Django, Flask), análisis de datos (Pandas, NumPy), inteligencia artificial (TensorFlow, PyTorch), automatización, scripting y más.
+[Python](https://www.python.org/) cuenta con un sistema de tipado dinámico y una gestión automática de memoria, lo que lo hace flexible y eficiente para una amplia gama de aplicaciones. Además, Python tiene una extensa biblioteca estándar y un ecosistema robusto de paquetes y módulos de terceros que extienden sus capacidades a áreas como desarrollo web (Django, Flask), análisis de datos (Pandas, NumPy), inteligencia artificial (TensorFlow, PyTorch), automatización, scripting y más.
 
-El intérprete de Python puede ser ejecutado en múltiples plataformas (Windows, macOS, Linux), lo que facilita el desarrollo y la implementación de aplicaciones en diferentes entornos. Además, Python es un lenguaje interpretado, lo que significa que el código se ejecuta línea por línea, permitiendo una depuración y pruebas más rápidas, aunque con un rendimiento potencialmente inferior en comparación con los lenguajes compilados. Claro está que, lo dicho aquí no lo es un todo; solamente es un simple resumen muy personal del mundo que es **Python**.
+El intérprete de [Python](https://www.python.org/) puede ser ejecutado en múltiples plataformas (Windows, macOS, Linux), lo que facilita el desarrollo y la implementación de aplicaciones en diferentes entornos. Además, Python es un lenguaje interpretado, lo que significa que el código se ejecuta línea por línea, permitiendo una depuración y pruebas más rápidas, aunque con un rendimiento potencialmente inferior en comparación con los lenguajes compilados. Claro está que, lo dicho aquí no lo es un todo; solamente es un simple resumen muy personal del mundo que es **Python**.
 
 ## 2. **Instalación de Python**
 
@@ -109,7 +110,7 @@ _Ilustración 3_
 Fuente: [Python](<https://www.Python.org/downloads/>) y Propia.
 2. **MacOS/Linux**:
 
-    * Por favor ver la ilustración 3 debido ya que Python suele estar preinstalado en estos sistemas. Para esto se puede verificar abriendo una terminal o ejecutar la tecla Windows + la letra R (al mismo tiempo) dentro de esta terminal se escribe el siguiente comando: ```Python --version```
+    * Por favor ver la ilustración 3 debido ya que https://www.python.org/ suele estar preinstalado en estos sistemas. Para esto se puede verificar abriendo una terminal o ejecutar la tecla Windows + la letra R (al mismo tiempo) dentro de esta terminal se escribe el siguiente comando: ```Python --version```
 
 _Ilustración 4_
 ![Python](assets/img/PythonLinux.png "Descargar Python otras versiones")
@@ -141,17 +142,17 @@ _Ilustración 7_
 ![PyCharm](assets/img/PyCharmIDE.png "PyCharm")
 Fuente: [PyCharm](https://www.jetbrains.com/es-es/pycharm/) y propia.
 
-**NOTA**: Para este tutorial se utilizó el Editor de Texto VS Code. Pero es a discreción del usuario el editor que quiera utilizar. Otro aspecto que se debe de conocer también es ciertos aspectos relevantes para lograr a comprender un poco este tema tan apasionante como lo es Python.
+**NOTA**: Para este tutorial se utilizó el Editor de Texto VS Code. Pero es a discreción del usuario el editor que quiera utilizar. Otro aspecto que se debe de conocer también es ciertos aspectos relevantes para lograr a comprender un poco este tema tan apasionante como lo es [Python](https://www.python.org/).
 
 ## Sintaxis de Python
 
-A continuación se presenta el tema de la sintaxis de Python; este vendría a ser la forma de empezar a usar el lenguaje Python con el objeto de ir creando y/o analizando sobre ¿Qué son las variables y estructuras de control?.
+A continuación se presenta el tema de la sintaxis de [Python](https://www.python.org/); este vendría a ser la forma de empezar a usar el lenguaje Python con el objeto de ir creando y/o analizando sobre ¿Qué son las variables y estructuras de control?.
 
 El termino [sintaxis](https://dle.rae.es/sintaxis?m=form) hace referencia al conjunto de reglas que definen las secuencias correctas de los elementos de un lenguaje de programación; de cómo se debe de escribir el código en un determinado lenguaje de programación. En resumen, hace referencia a la forma en la que se debe escribir las instrucciones para que el ordenador, o más bien el lenguaje de programación entienda lo que se está solicitando.
 
-Como es de común acuerdo, en la mayoría de los lenguajes existe una sintaxis propia de cada lenguaje, también existen similitudes como por ejemplo, el uso del término matemático (igual) = para asignar un dato a una variable, o el uso de los famosos corchetes {} para designar bloques de código, pero Python tiene ciertas particularidades.
+Como es de común acuerdo, en la mayoría de los lenguajes existe una sintaxis propia de cada lenguaje, también existen similitudes como por ejemplo, el uso del término matemático (igual) = para asignar un dato a una variable, o el uso de los famosos corchetes {} para designar bloques de código, pero [Python](https://www.python.org/) tiene ciertas particularidades.
 
-Por lo tanto, la sintaxis viene siendo tan importante para la programación como lo que es la gramática para los idiomas. Se puede dar un pequeño comentario acerca de la frase “Yo estamos aquí “escribirla así no es correcta y el siguiente código en Python no sería correcto, ya que no respeta las normas del lenguaje.
+Por lo tanto, la sintaxis viene siendo tan importante para la programación como lo que es la gramática para los idiomas. Se puede dar un pequeño comentario acerca de la frase “Yo estamos aquí “escribirla así no es correcta y el siguiente código en [Python](https://www.python.org/) no sería correcto, ya que no respeta las normas del lenguaje.
 
 ```Python
 if ($variable){
@@ -159,11 +160,11 @@ if ($variable){
 }
 ```
 
-El anterior código, lo veremos a continuación en detalle; pero, lo importante de Python es que no soporta el uso de lo que se conoce como el signo pesos ``$`` ni hace falta terminar las líneas con el signo de puntuación punto y coma (;) como en otros lenguajes, y tampoco hay que usar {} en estructuras de control como en el if.
+El anterior código, lo veremos a continuación en detalle; pero, lo importante de [Python](https://www.python.org/) es que no soporta el uso de lo que se conoce como el signo pesos ``$`` ni hace falta terminar las líneas con el signo de puntuación punto y coma (;) como en otros lenguajes, y tampoco hay que usar {} en estructuras de control como en el if.
 
 De la misma forma que, un idioma no se habla con simplemente saber todas sus palabras, en la programación no basta con saber la sintaxis de un lenguaje para programar correctamente en este. También es cierto, que sabiendo la sintaxis se puede empezar a programar y a hacer muchas cosas con la sintaxis; pero, utilizar un lenguaje de programación va mucho más allá de la sintaxis.
 
-Ahora, con el objeto de empezar a perderle el miedo a la sintaxis de Python, se puede ver un ejemplo donde se observa cadenas, operadores aritméticos y el uso del condicional if; entre otros. Así, el siguiente código simplemente define tres valores a, b y c, realiza unas operaciones con ellos y muestra el resultado por pantalla.
+Ahora, con el objeto de empezar a perderle el miedo a la sintaxis de [Python](https://www.python.org/), se puede ver un ejemplo donde se observa cadenas, operadores aritméticos y el uso del condicional if; entre otros. Así, el siguiente código simplemente define tres valores a, b y c, realiza unas operaciones con ellos y muestra el resultado por pantalla.
 
 ```Python
 # Se define una variable x con una cadena
@@ -185,7 +186,7 @@ if imprimir:
 # Por lo que la salida: El valor de (a+b)*c es 14
 ```
 
-Al observar el anterior código, se tiene que, la sintaxis de Python es muy parecida al lenguaje natural o [pseudocódigo](https://www.youtube.com/watch?v=KcSD3r16Pl0) por [Kiko Palomares](https://github.com/KikoPalomares "Kiko Palomares"). Entonces, El pseudocódigo es una representación textual de un [algoritmo](https://www.epitech-it.es/algoritmo-diferentes-tipos/) o proceso, escrito de manera que imita el lenguaje de programación; pero, no es específico de un lenguaje en particular. Es como una forma de expresar los pasos que va a realizar un programa de manera clara y concisa, utilizando estructuras de control, sentencias de asignación y comentarios para explicar el proceso.
+Al observar el anterior código, se tiene que, la sintaxis de [Python](https://www.python.org/) es muy parecida al lenguaje natural o [pseudocódigo](https://www.youtube.com/watch?v=KcSD3r16Pl0) por [Kiko Palomares](https://github.com/KikoPalomares "Kiko Palomares"). Entonces, El pseudocódigo es una representación textual de un [algoritmo](https://www.epitech-it.es/algoritmo-diferentes-tipos/) o proceso, escrito de manera que imita el lenguaje de programación; pero, no es específico de un lenguaje en particular. Es como una forma de expresar los pasos que va a realizar un programa de manera clara y concisa, utilizando estructuras de control, sentencias de asignación y comentarios para explicar el proceso.
 
 A diferencia de un lenguaje de programación real, el pseudocódigo no es ejecutable directamente por la máquina, sino que se utiliza como intermediario entre la resolución de problemas y la codificación real en un lenguaje de programación. Esto permite a los programadores trabajar de manera independiente del lenguaje, centrándose en el algoritmo y su lógica, lo que facilita la colaboración y la comprensión mutua. Con esto en mente, lo que hace el pseudocódigo es que sea es relativamente fácil de leer. Otra ventaja es que no necesitamos nada más.
 
@@ -193,7 +194,7 @@ Volviendo al código anterior, puede ser ejecutado tal cual está. Ahora al tene
 
 ## ¿Qué son los Comentarios en los lenguajes de programación?
 
-como su nombre lo indica, los comentarios son bloques de texto usados para comentar el código. Es decir, para ofrecer información relevante tanto al que lo escribe como a otros programadores que brinda información relevante acerca del código que se está escribiendo. Para efectos prácticos, para Python como para algunos lenguajes de programación es como si no existieran, ya que no son código propiamente dicho, solamente son anotaciones.
+como su nombre lo indica, los comentarios son bloques de texto usados para comentar el código. Es decir, para ofrecer información relevante tanto al que lo escribe como a otros programadores que brinda información relevante acerca del código que se está escribiendo. Para efectos prácticos, para [Python](https://www.python.org/) como para algunos lenguajes de programación es como si no existieran, ya que no son código propiamente dicho, solamente son anotaciones.
 
 Los comentarios se inician con # y todo lo que vaya después en la misma línea será considerado un comentario.
 
@@ -209,22 +210,22 @@ de varias líneas
 de código
 ```
 
-## Identación y bloques de código en Python
+## indentación y bloques de código en Python
 
-La Identación en Python es la práctica de utilizar espacios o tabuladores para identar los bloques de código. Esta identación es necesaria para indicar la estructura jerárquica de los comandos y controlar la fluidez del programa. En Python, los bloques de código se definen mediante la identación, es decir, al utilizar espacios o tabuladores para identar las líneas dentro de un bloque.
+La indentación en [Python](https://www.python.org/) es la práctica de utilizar espacios o tabuladores para indentar los bloques de código. Esta indentación es necesaria para indicar la estructura jerárquica de los comandos y controlar la fluidez del programa. En Python, los bloques de código se definen mediante la indentación, es decir, al utilizar espacios o tabuladores para indentar las líneas dentro de un bloque.
 
-por lo tanto, es importante mantener consistencia en la identación a lo largo del código; debido a que, Python no tiene un límite explícito de identación, sino que se basa en la lógica de que las líneas identadas pertenecen al mismo bloque. Por lo general, se utiliza cuatro espacios para la identación, pero esto puede variar según las preferencias personales del desarrollador.
+por lo tanto, es importante mantener consistencia en la indentación a lo largo del código; debido a que, Python no tiene un límite explícito de indentación, sino que se basa en la lógica de que las líneas identadas pertenecen al mismo bloque. Por lo general, se utiliza cuatro espacios para la indentación, pero esto puede variar según las preferencias personales del desarrollador.
 
 ### Los bloques de código en Python se definen de la siguiente manera
 
-* Un bloque ``if`` se identifica con una identación adicional después de la palabra clave ``if``.
-* Un bloque ``elif`` se identifica con una identación adicional después del bloque ``if`` precedente.
-* Un bloque ``else`` se identifica con una identación adicional después del bloque ``elif`` o ``if`` precedente.
-* La identación se deshace al llegar al final del bloque, lo que indica el regreso a la instrucción principal.
+* Un bloque ``if`` se identifica con una indentación adicional después de la palabra clave ``if``.
+* Un bloque ``elif`` se identifica con una indentación adicional después del bloque ``if`` precedente.
+* Un bloque ``else`` se identifica con una indentación adicional después del bloque ``elif`` o ``if`` precedente.
+* La indentación se deshace al llegar al final del bloque, lo que indica el regreso a la instrucción principal.
 
 En el siguiente ejemplo, el bloque ``if`` se identifica con cuatro espacios, y los bloques ``elif`` y ``else`` también se identifican con cuatro espacios respectivos. El código dentro de cada bloque está identado también con cuatro espacios para mostrar claramente la estructura del programa.
 
-En resumen, la identación en Python es esencial para definir los bloques de código y controlar la fluidez del programa. Es importante mantener consistencia en la identación a lo largo del código y utilizar una cantidad consistente de espacios o tabuladores para identar las líneas.
+En resumen, la indentación en [Python](https://www.python.org/) es esencial para definir los bloques de código y controlar la fluidez del programa. Es importante mantener consistencia en la indentación a lo largo del código y utilizar una cantidad consistente de espacios o tabuladores para indentar las líneas.
 
 #### Código de ejemplo en Python
 
@@ -237,11 +238,11 @@ else:
     print('Tarifa para adultos')
 ```
 
-**Nota**: En este ejemplo, se utiliza cuatro espacios para la identación. Sin embargo, es importante mantener consistencia en esta a lo largo del código y utilizar la cantidad de espacios o tabuladores que se prefiera.
+**Nota**: En este ejemplo, se utiliza cuatro espacios para la indentación. Sin embargo, es importante mantener consistencia en esta a lo largo del código y utilizar la cantidad de espacios o tabuladores que se prefiera.
 
-Generalmente, En Python los bloques de código se representan con identación, y aunque hay un poco de debate con respecto a usar tabulador o espacios, la norma general es usar cuatro espacios. Obsérvese otro ejemplo.
+Generalmente, En Python los bloques de código se representan con indentación, y aunque hay un poco de debate con respecto a usar tabulador o espacios, la norma general es usar cuatro espacios. Obsérvese otro ejemplo.
 
-En el siguiente código se tiene un condicional ``if``. Justo después aparece un ````print()```` identado con cuatro espacios. Por lo tanto, todo lo que tenga esa identación pertenecerá al bloque del if.
+En el siguiente código se tiene un condicional ``if``. Justo después aparece un ````print()```` identado con cuatro espacios. Por lo tanto, todo lo que tenga esa indentación pertenecerá al bloque del if.
 
 ```Python
 if True:
@@ -278,7 +279,7 @@ x = 5; y = 10
 
 ### Múltiples líneas
 
-En algunas situaciones se puede dar el caso de que se quiera tener una sola instrucción en varias líneas de código. Uno de los motivos principales podría ser que fuera demasiado larga, y de hecho en la especificación [PEP8](https://dev.to/viktorvillalobos/que-es-el-pep-8-y-porque-deberia-implementarlo-54bh) se recomienda que las líneas no excedan los 80 caracteres, usar cuatro espacios en la identación en vez de tabs y otras más.
+En algunas situaciones se puede dar el caso de que se quiera tener una sola instrucción en varias líneas de código. Uno de los motivos principales podría ser que fuera demasiado larga, y de hecho en la especificación [PEP8](https://dev.to/viktorvillalobos/que-es-el-pep-8-y-porque-deberia-implementarlo-54bh) se recomienda que las líneas no excedan los 80 caracteres, usar cuatro espacios en la indentación en vez de tabs y otras más.
 
 Haciendo uso de la barra inclinada invertida (\) se puede romper el código en varias líneas, lo que en determinados casos hace que el código sea mucho más legible.
 
@@ -423,7 +424,7 @@ b = 5
 resultado = a <= b  # resultado es True
 ```
 
-En este caso, el operador <= evalúa la condición y devuelve un valor booleano (True en este caso). Este valor booleano se puede utilizar en sentencias ``if`` o en otras expresiones.
+En este caso, el operador ``<=`` evalúa la condición y devuelve un valor booleano (True en este caso). Este valor booleano se puede utilizar en sentencias ``if`` o en otras expresiones.
 
 Recuerda que los operadores relacionales son estrictos, lo que significa que 4 no es considerado igual a 4.0, por ejemplo. Si se necesita comparar valores numéricos con precisión decimal, se debe utilizar bibliotecas adicionales como ``decimal`` o ``fractions`` que vendría a ser otro tema de presentación más adelante.
 
@@ -432,15 +433,15 @@ Recuerda que los operadores relacionales son estrictos, lo que significa que 4 n
 ![El Pytonista](assets/img/VariablesEnPython.jpg "Las variables en Python")
 Fuente: [Pytonista](https://elpythonista.com/variables-python)
 
-En Python, una variable es **_un espacio de memoria reservado para almacenar un valor_**. No se necesita declarar las variables antes de utilizarlas, ya que se crean automáticamente cuando se les asigna un valor. Las variables en Python son dinámicas, lo que significa que no se necesita especificar de antemano qué tipo de valor almacenarán.
+En [Python](https://www.python.org/), una variable es **_un espacio de memoria reservado para almacenar un valor_**. No se necesita declarar las variables antes de utilizarlas, ya que se crean automáticamente cuando se les asigna un valor. Las variables en Python son dinámicas, lo que significa que no se necesita especificar de antemano qué tipo de valor almacenarán.
 
 ### Asignación de Valores
 
-Se asignan valores a las variables utilizando el operador de asignación ``=`` (igual). Por ejemplo, x = 5 asigna el valor 5 a la variable x. También se pueden asignar cadenas de texto, como nombre = "Juan" o valores booleanos, como activo = True.
+Se asignan valores a las variables utilizando el operador de asignación ``=`` (igual). Por ejemplo, ``x = 5 asigna el valor 5 a la variable x``. También se pueden asignar cadenas de texto, como ``nombre = "Juan"`` o valores booleanos, como ``activo = True``.
 
 ### Tipos de Variables
 
-Python es un lenguaje de tipo dinámico, lo que significa que no se necesita especificar el tipo de variable al declararla. Sin embargo, se pueden categorizar las variables en:
+[Python](https://www.python.org/) es un lenguaje de tipo dinámico, lo que significa que no se necesita especificar el tipo de variable al declararla. Sin embargo, se pueden categorizar las variables en:
 
 1. **_Variables numéricas_** (int, float): Almacenan números enteros o decimales.
 2. **_Variables de texto_** (str): Almacenan cadenas de caracteres.
@@ -672,7 +673,7 @@ Es importante destacar que las variables locales no se pueden acceder ni modific
 
 Por último, en cualquier lenguaje de programación es importante saber lo que va pasando a medida que se ejecutan las diferentes instrucciones. Por ello, es interesante hacer uso de ````print()```` en diferentes secciones del código, ya que permiten ver el valor de las variables y muestra información útil.
 
-Existen muchas formas de usar la función ````print()```` y te las explicamos en detalle en este post, pero por ahora basta con que sepas lo básico.
+Existen muchas formas de usar la función ``print()`` y te las explicamos en detalle en este post, pero por ahora basta con que sepas lo básico.
 
 Como ya hemos visto se puede usar ``print()`` para imprimir por pantalla el texto que se quiera ver.
 
@@ -699,7 +700,118 @@ print("Los valores x, y son:", x, y)
 
 ## Creación de nuestro primer archivo
 
-De acuerdo con lo anterior, ya se puede iniciar con crear un archivo en el IDLE de VS Code; para esto, se puede iniciar de la siguiente manera; aunque es de conocimiento que existen varias formas de hacerlo. Se procede a crear un archivo con el nombre que quiera utilizar el usuario; no sin antes advertir que debe de tener la extensión punto py (.py);para este caso se llamará example.py.
+De acuerdo con lo anterior, ya se puede iniciar con crear un archivo en el IDLE de VS Code; para esto, se puede iniciar de la siguiente manera; aunque es de conocimiento que existen varias formas de hacerlo. Se procede a crear un archivo con el nombre que quiera utilizar el usuario; no sin antes advertir que debe de tener la extensión punto py (.py);para este caso se llamará example.py. Y este sería el código:
+
+```python
+print("Datos de la primera persona")
+# Para obtener una cadena de caracteres se utiliza la función input junto con variables
+# diferentes por lo tanto, se le permite al usuario que ingrese los datos por teclado.
+nombre1 = input("Ingrese nombre del producto:")
+# En la siguiente línea se ingresa un valor y se transforma en entero y se acumula ese
+# valor en la variable precio1
+precio1 = int(input("Ingrese un precio:"))
+# En la siguiente línea se ingresa un valor y se acumula en la variable nombre2
+nombre2 = input("Ingrese nombre del producto:")
+# En la siguiente línea se ingresa un valor y se transforma en entero y se acumula ese
+# valor en la variable precio2
+precio2 = int(input("Ingrese un precio:"))
+# en la siguiente línea se nombra una constante (En letras mayúsculas)
+BONIFICACION = 20
+# Se suman dos precios y su resultado se guarda en la variable precio_compra_total
+precio_compra_total = precio1 + precio2
+# En la siguiente línea se comprueba sí el precio1 es mayor o igual que el precio2 y se
+# guarda en la variable comparar. Por lo tanto, el resultado es un valor booleano (true or false)
+comparar = precio1 >= precio2
+# ahora se utiliza un operador lógico (and) para evaluar los precios y se guardan en la
+# variable logico; por lo tanto, el resultado es un valor booleano (true or false) pero tiene que
+# cumplirse las dos condiciones para que el resultado se true
+logico = (precio1 < precio2 and precio1 == precio2)
+# en el siguiente bloque se va a concatenar texto y se procede de la siguiente manera:
+cabecera = "resultados del producto {0} y del producto {1}: "
+# en la siguiente línea se concatena el texto con la función format
+print(cabecera.format(nombre1, nombre2))
+print("El precio del primer valor es mayor o igual a el precio del segundo valor")
+# Otra forma de concatenar es con el signo más (+) y en la variable la propiedad str
+print("La suma de los productos es: $ " + str(precio_compra_total))
+print("El precio1 < precio2 and precio1 == precio2")
+print(logico)
+# En la siguiente línea se tiene un operador de asignación
+precio_compra_total += BONIFICACION
+print("al precio total se le incrementa su valor que tiene la constante: " +
+      str(precio_compra_total))
+```
+Como es de conocimiento para muchos el código se puede ejecutar directamente en una terminal de este archivo directamente. Observar la siguiente ilustración 8.
+
+_Ilustración 8_
+![Desde la Terminal](assets/img/PythonExecuteExample.png "Desde la Terminal de Vs Code")
+Fuente: Propia.
+
+Seguidamente, se tiene la ejecución del código; pero, desde un [CMD](https://tutowindow.com/que-significa-el-comando-cmd/); por favor ver la siguiente ilustración 9.
+
+_Ilustración 9_
+![Desde el CMD](assets/img/PythonExecuteExample1.png "Desde el CMD")
+Fuente: Propia.
+
+## Condicionales
+
+Las [sentencias condicionales](https://keepcoding.io/blog/expresiones-condicionales-en-python/) son un aparte fundamental en la programación en Python; como, en cualquier lenguaje de programación; por lo general, son una forma de controlar el flujo de ejecución de un programa, permitiendo que el código se ejecute solo cuando se cumplan ciertas condiciones establecidas. A continuación, se presentan algunos de los conceptos básicos y unos ejemplos de cómo utilizarlas:
+
+```python
+if expresion_booleana: 
+     # Código a ejecutar si la expresión es verdadera 
+else: 
+     # Código a ejecutar si la expresión es falsa
+```
+
+* La sentencia condicional más básica en Python es la sentencia ``if``, que se expresa de la siguiente forma: ``if condición: código a ejecutar``. La condición se evalúa como verdadera o falsa, y si es verdadera, se ejecutan las líneas de código indentadas debajo de la sentencia ``if``.
+* Para especificar un código alternativo que se ejecute cuando la condición sea falsa, se utiliza la sentencia ``else: if condición: código a ejecutar elif condición2: código a ejecutar else: código a ejecutar por defecto``.
+* La sentencia ``elif`` (short for “else if”) se utiliza para evaluar otra condición si la primera condición es falsa. De esta forma, se pueden verificar múltiples condiciones y ejecutar diferentes bloques de código según sea necesario. por ejemplo:
+
+```python
+x = 5
+
+if x > 10:
+    print("x es mayor que 10")
+elif x == 5:
+    print("x es igual a 5")
+else:
+    print("x es menor que 10")
+```
+
+## algunos Consejos
+
+* Es importante tener en cuenta que las sentencias condicionales deben estar indentadas correctamente para que Python las interprete como parte del bloque de código asociado.
+* A menudo, se utilizan operadores lógicos (como ``and``, ``or``) y de comparación (como ``==``, ``!=``, ``>``, ``<``, etc.) para definir las condiciones. Por ejemplo: ``if x > 5 and y < 10:``
+* Para evitar errores y mantener el código legible, se recomienda ***evitar la anidación excesiva*** de condicionales y ***utilizar la indentación adecuada***para definir los bloques de código.
+
+# Evaluación en corto circuito
+
+Normalmente, la Evaluación en Corto Circuito ([ECC](https://patriciaemiguel.com/conceptos/2020/04/20/circuito-corto.html)) dentro de Python hace referencia a la forma en que las operaciones lógicas (Booleanas) se evalúan cuando se utilizan **operandos booleanos** dentro de una condición condicional. O sea que, cuando se combinan operadores lógicos como ``and`` u ``or``, Python evalúa los operandos de ***izquierda a derecha*** y por lo tanto corta o termina la evaluación tan pronto como se determine la verdad (true) o falsedad (false) de la condición. Por favor ver la siguiente ilustración 9.
+
+![Corto Circuito](assets/img/EvaluaciónPorCortoCircuito.png "Evaluación por corto circuito")
+Fuente: [https://patriciaemiguel.com/conceptos/2020/04/20/circuito-corto.html](https://patriciaemiguel.com/conceptos/2020/04/20/circuito-corto.html)
+
+En el siguiente ejemplo, ``if (A and B)``, si ``B`` es nulo (o falso en un sentido lógico), Python evaluará directamente ``B`` como falso (false) por lo que no continuará evaluando el resto de la condición, ya que el resultado de una operación ``and`` con un falso (false) operando es siempre falso (false).
+
+Es así como se conoce el termino como **cortocircuito a la izquierda** (Left-Hand Side Short-Circuit) para operaciones ``and``, ya que Python “corta” la evaluación cuando encuentra el primer falso (false ) en el operando.
+
+Dicho de otro modo, la Evaluación en Corto Circuito en Python es una característica que permite en la mayoría de los casos evitar errores al evaluar condiciones condicionales, ayudando a que, solo se evalúen los operandos necesarios para determinar el resultado final. Obsérvese el siguiente ejemplo:
+
+```python
+def ejemplo(A, B):
+    if A and B:  # Cortocircuito a la izquierda (LHSSC) para operaciones and
+        print("Ambos operandos son verdaderos")
+    else:
+        print("Al menos uno de los operandos es falso")
+
+# Ejemplo de uso:
+A = True
+B = None  # B es nulo, por lo que se considera falso en un sentido lógico
+ejemplo(A, B)  # Output: "Al menos uno de los operandos es falso"
+```
+
+Analizando el anterior ejemplo, como ``B`` es nulo, Python evalúa directamente ``B`` como falso y no continua evaluando el resto de la condición, oprimiendo el mensaje correspondiente.
+
 
 1. First list item
    * First nested list item
