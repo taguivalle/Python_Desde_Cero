@@ -22,7 +22,7 @@
 
 ## Agradecimientos
 
-Es muy importante aclarar que, lo expuesto en este pequeño pero gran tutorial la mayoría de los conceptos los adquirí de la plataforma educativa [Udemy](https://www.udemy.com/mobile/ipad/) que a lo largo de los años he utilizado mucho por su variedad de información con respecto de los cursos como de sus magistrales educadores; la verdad me siento muy agradecido con esta plataforma educativa; para lo que les deseo muchos éxitos y prosperidad.
+Es muy importante aclarar que, lo expuesto en este pequeño pero, gran tutorial "Python desde cero" es que la mayoría de los conceptos los adquirí de la plataforma educativa [Udemy](https://www.udemy.com/mobile/ipad/) que a lo largo de los años he utilizado mucho por su variedad de información con respecto de los cursos como de sus magistrales educadores; la verdad me siento muy agradecido con esta plataforma educativa; para lo que les deseo muchos éxitos y prosperidad.
 
 No obstante, también un agradecimiento muy especial a las diferentes páginas web que he consultado y que se referencian en este tutorial y muy especialmente a [GitHub](https://github.com/) por sus valiosos aportes en la documentación como de la orientación de diferentes usuarios de esta.
 
@@ -36,7 +36,7 @@ En este tutorial, se tiene un paso a paso desde los conceptos básicos hasta alg
 
 ## Tabla de Contenido
 
-* ¿Qué se puede aprender en este tutorial?
+* [¿Qué se puede aprender en este tutorial?](## ¿Qué se puede aprender en este tutorial?)
 * ¿Qué es Python?
 * Instalación de Python
 * En Windows
@@ -142,7 +142,9 @@ _Ilustración 7_
 ![PyCharm](assets/img/PyCharmIDE.png "PyCharm")
 Fuente: [PyCharm](https://www.jetbrains.com/es-es/pycharm/) y propia.
 
-**NOTA**: Para este tutorial se utilizó el Editor de Texto VS Code. Pero es a discreción del usuario el editor que quiera utilizar. Otro aspecto que se debe de conocer también es ciertos aspectos relevantes para lograr a comprender un poco este tema tan apasionante como lo es [Python](https://www.python.org/).
+>[!Nota]
+
+Para este tutorial se utilizó el Editor de Texto VS Code. Pero es a discreción del usuario el editor que quiera utilizar. Otro aspecto que se debe de conocer también es ciertos aspectos relevantes para lograr a comprender un poco este tema tan apasionante como lo es [Python](https://www.python.org/) es conocer su sintaxis.
 
 ## Sintaxis de Python
 
@@ -812,6 +814,7 @@ ejemplo(A, B)  # Output: "Al menos uno de los operandos es falso"
 
 Analizando el anterior ejemplo, como ``B`` es nulo, Python evalúa directamente ``B`` como falso y no continua evaluando el resto de la condición, oprimiendo el mensaje correspondiente.
 
+### ojo hay un titulo en minúscula
 
 1. First list item
    * First nested list item
